@@ -1,7 +1,9 @@
 /*
- * NEW BORN - MUSE :D
+ * Olympia Axelou
+ * 18 September 2016
  *
- * Used a passive buzzer and leds to implement a piano
+ * NEW BORN - MUSE :D
+ * Used a passive buzzer and leds to implement piano tiles
  */
 
  #define RE 293 //8
