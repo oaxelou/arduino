@@ -1,4 +1,12 @@
 /*
+  Olympia Axelou
+  15 September 2016
+
+  Copied code for scrolling display on LCD and printed a message to 
+  check its utilities.
+
+  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
   LiquidCrystal Library - scrollDisplayLeft() and scrollDisplayRight()
 
  Demonstrates the use a 16x2 LCD display.  The LiquidCrystal
