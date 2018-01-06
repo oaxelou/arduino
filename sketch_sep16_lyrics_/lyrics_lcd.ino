@@ -1,6 +1,8 @@
 /*
+ * Olympia Axelou
+ * 16 September 2016
+ *
  * Lyrics : CENTURIES - FALL OUT BOY
- * 
  * Printed on LCD
  */
 #include <LiquidCrystal.h>
